@@ -44,6 +44,9 @@ Me considero uma entusiasta na área de tecnologia movida pela inovação.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihcaron&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating dots animation" />
+
+
 </div>
 
 <br>
@@ -72,6 +75,5 @@ Me considero uma entusiasta na área de tecnologia movida pela inovação.
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating dots animation" />
 
 </div>
